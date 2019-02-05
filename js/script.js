@@ -8,7 +8,7 @@ var artist=["Drake","Eminem","Lil Baby"];
 
 var lengths=["3:01","4:58","2:25"];
 
-var links=["https://www.youtube.com/embed/3i2BsXJyXUk","https://www.youtube.com/embed/t6vBhvlKxMA","https://www.youtube.com/embed/0tTn95TLIaw"];
+var links=["https://youtu.be/aFYUfzcjuaw","https://youtu.be/Obim8BYGnOE","https://youtu.be/THcVOf1kNh0"];
 
 var images=["https://t2.genius.com/unsafe/220x220/https%3A%2F%2Fimages.genius.com%2Fe7e7b150d3e07aee934b56fc1e510aa5.1000x1000x1.jpg","https://images-na.ssl-images-amazon.com/images/I/61jxguiMreL._SL1200_.jpg","https://images.genius.com/3a4755d14ac03360c25189e900b34867.1000x1000x1.jpg"]
 
