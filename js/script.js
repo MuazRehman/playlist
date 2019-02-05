@@ -54,6 +54,7 @@ function addSongInfo(){
     artist.push($('#artist').val());
     lengths.push($('#length').val());
     links.push($('#link').val());
+    images.push($('#images').val());
 }
  
 $("#add").click(function() {
