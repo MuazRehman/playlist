@@ -29,6 +29,10 @@ images.forEach(function(image){
    $('#images').append('<img src=' +' " ' + image + ' " ' +'>');
 });
 
+links.forEach(function(links){
+   $('#links').append('<a href=" ' + links + ' ">Song</a>');
+});
+
 $('img').click(function(){
 $('img').attr("song");
     

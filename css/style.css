@@ -67,7 +67,7 @@ body {
 }
 
 
-#links img{
+#links a{
     display:block;
     font-size: 18px;
     height: 50px;
